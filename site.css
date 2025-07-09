@@ -360,7 +360,7 @@ border:none;
 
 .hero{
         text-align: center;
-        background-image: url(./images/concert-cover.jpg);/* https://www.pexels.com/photo/people-having-a-concert-1190297/ */
+        background-image: url(concert-cover.jpg);/* https://www.pexels.com/photo/people-having-a-concert-1190297/ */
         background-size: cover;
         background-position: center;
         color: white;
