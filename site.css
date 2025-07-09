@@ -87,7 +87,7 @@ nav ul li a:hover{
       color: var(--color-light-blue);
 }
 .headerContainer{
-    background-image: url(./images/header.jpg); /* https://www.pixelstalk.net/wp-content/uploads/2016/09/Musical-instrument-wallpaper-high-quality.jpg */
+    background-image: url(header.jpg); /* https://www.pixelstalk.net/wp-content/uploads/2016/09/Musical-instrument-wallpaper-high-quality.jpg */
     height: 80vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -127,7 +127,7 @@ nav ul li a:hover{
     padding:40px 0px 40px 0px;
 }
 #aboutimage{
-    background-image: url(./images/about.jpg); /*https://images.unsplash.com/photo-1501447250418-246949108fc1?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D */
+    background-image: url(about.jpg); /*https://images.unsplash.com/photo-1501447250418-246949108fc1?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D */
     height: 400px;
     width: 40%;
     background-position: center;
@@ -360,7 +360,7 @@ border:none;
 
 .hero{
         text-align: center;
-        background-image: url(./images/concert-cover.jpg);/* https://www.pexels.com/photo/people-having-a-concert-1190297/ */
+        background-image: url(concert-cover.jpg);/* https://www.pexels.com/photo/people-having-a-concert-1190297/ */
         background-size: cover;
         background-position: center;
         color: white;
@@ -463,7 +463,7 @@ td:nth-child(3){
 /* About Page CSS */
 .aboutHero{
     text-align: center;
-        background-image: url(./images/abouthero.jpg);/* https://wallpaperaccess.com/full/1523943.jpg */
+        background-image: url(abouthero.jpg);/* https://wallpaperaccess.com/full/1523943.jpg */
         background-size: cover;
         background-position: center;
         color: white;
@@ -502,7 +502,7 @@ td:nth-child(3){
 }
 .gridBox1{
     height:250px;
-    background-image: url(./images/aboutimage.jpeg); /* https://cdn.pixabay.com/index/2023/04/18/04-44-42-402_1440x550.jpg */
+    background-image: url(aboutimage.jpeg); /* https://cdn.pixabay.com/index/2023/04/18/04-44-42-402_1440x550.jpg */
     background-size: cover;
     background-position: center;
     border-radius:10px;
@@ -583,7 +583,7 @@ h3{
 /* Contact Page CSS*/
 .contactHeader{
     text-align: center;
-    background-image: url(./images/contact-header.jpeg);/* https://www.google.com/imgres?q=header%20image%20in%20black%20color%20for%20contact%20us%20page%20for%20music%20website&imgurl=https%3A%2F%2Fwww.freewebheaders.com%2Fwp-content%2Fgallery%2Fmusic%2Fcache%2Fwhite-music-notes-on-grunge-black-background-header.jpg-nggid044620-ngg0dyn-1280x375x100-00f0w010c010r110f110r010t010.jpg&imgrefurl=https%3A%2F%2Fwww.freewebheaders.com%2Fblack-headers%2F&docid=SgDEa1E1ovt8pM&tbnid=rnLzIAzJI0tz0M&vet=12ahUKEwjb7Pn35sWFAxVeEVkFHezbDF0QM3oECGkQAA..i&w=1280&h=375&hcb=2&ved=2ahUKEwjb7Pn35sWFAxVeEVkFHezbDF0QM3oECGkQAA */
+    background-image: url(contact-header.jpeg);/* https://www.google.com/imgres?q=header%20image%20in%20black%20color%20for%20contact%20us%20page%20for%20music%20website&imgurl=https%3A%2F%2Fwww.freewebheaders.com%2Fwp-content%2Fgallery%2Fmusic%2Fcache%2Fwhite-music-notes-on-grunge-black-background-header.jpg-nggid044620-ngg0dyn-1280x375x100-00f0w010c010r110f110r010t010.jpg&imgrefurl=https%3A%2F%2Fwww.freewebheaders.com%2Fblack-headers%2F&docid=SgDEa1E1ovt8pM&tbnid=rnLzIAzJI0tz0M&vet=12ahUKEwjb7Pn35sWFAxVeEVkFHezbDF0QM3oECGkQAA..i&w=1280&h=375&hcb=2&ved=2ahUKEwjb7Pn35sWFAxVeEVkFHezbDF0QM3oECGkQAA */
     background-size: cover;
     background-position: center;
     color: white;
@@ -808,7 +808,7 @@ form{
 }
 .galleryHeader{
     text-align: center;
-    background-image: url(./images/gallerybanner.jpeg);/* https://pin.it/7qVZb7aX0 */
+    background-image: url(gallerybanner.jpeg);/* https://pin.it/7qVZb7aX0 */
     background-size: cover;
     background-position: center;
     color: white;
