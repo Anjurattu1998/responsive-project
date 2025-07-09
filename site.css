@@ -357,6 +357,93 @@ border:none;
 }
 
  /*Event Page CSS */
+
+.hero{
+        text-align: center;
+        background-image: url(./images/concert-cover.jpg);/* https://www.pexels.com/photo/people-having-a-concert-1190297/ */
+        background-size: cover;
+        background-position: center;
+        color: white;
+        width: 100%;
+        height: 80vh;
+        margin: 0;
+        padding: 20px 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 100px;
+}
+ table {
+    width: 95%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    margin-bottom: 20px;
+}
+.serviceHeading{
+    text-align: center;
+}
+.container {
+    width: 80%;
+    margin:auto;
+    padding:40px 0px 40px 0px;
+}
+table, th, td {
+    border: 5px solid #ddd;
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+th:nth-child(2){
+    border-right: 0px;
+}
+th:nth-child(3){
+    border-left: 0px;
+    text-align: right;
+}
+td:nth-child(2){
+    border-right: 0px;
+}
+td:nth-child(3){
+    border-left: 0px;
+    text-align: right;
+}
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.card {
+    width: 30%;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    width: 250px;    
+}
+.card:hover{
+    box-shadow: 5px 5px 5px rgba(176, 45, 12, 0.3);
+    transform: scale(1.1); /* https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/scale */
+    transition: transform 0.3s ease; /* https://developer.mozilla.org/en-US/docs/Web/CSS/transition */
+    border-bottom: 2px solid #15d5fe;
+}
+.card img {
+    width: 100%;
+    height: 250px;
+}
+.card-label{
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+    padding: 10px;
+}
+
 /* Tablet View (max-width: 768px) */
 @media only screen and (max-width: 768px) {
   .hero {
